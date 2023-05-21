@@ -19,3 +19,11 @@ https://getbootstrap.com/docs/4.3/examples/album/
 1. 우측 상단 햄버거 버튼 클릭 시 진행되는 동적 기능
 2. 기타 애니메이션 효과
 3. 하단 Footer
+
+
+## 구현 화면
+![image](https://github.com/Yoosun-Chang/fe-react-clone-coding/assets/81423123/d8254e44-bf87-4a39-abc8-e75bece4ce0c)
+
+## 컴포넌트 계층 구조
+![image](https://github.com/Yoosun-Chang/fe-react-clone-coding/assets/81423123/2ee54231-3591-43df-bf3c-5a3ba9aa6fe0)
+
